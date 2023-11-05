@@ -1,6 +1,6 @@
 # yuque_crawler
 
-yuque爬取工具
+语雀文档爬取工具，输入语雀book文档链接，可以将book内的文档以html格式的方式进行抓取
 
 ## 使用方法
 
