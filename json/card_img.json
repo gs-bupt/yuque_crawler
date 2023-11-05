@@ -1,0 +1,321 @@
+{
+    "src": "https://cdn.nlark.com/yuque/0/2023/png/331027/1695214576042-eb72b8dd-18a9-4203-aa4e-03e550539a58.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_65%2Ctext_5pCc77yabmFnZW9mZmVyLmNvbQ%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
+    "taskId": "ub4d99523-9624-4d5a-8c5f-91cb064f67b",
+    "clientId": "u3685803b-e970-4",
+    "originalType": "binary",
+    "width": 1135,
+    "height": 777,
+    "linkTarget": "_blank",
+    "name": "image.png",
+    "size": 245130,
+    "from": "paste",
+    "originWidth": 2270,
+    "originHeight": 1554,
+    "ratio": 2,
+    "status": "done",
+    "style": "none",
+    "ocrLocations": [
+        {
+            "text": "P@GC-STEPPINGTHREADGROU",
+            "x": 23,
+            "y": 27,
+            "width": 650,
+            "height": 45
+        },
+        {
+            "text": "O停止测试O立即停止测试",
+            "x": 736,
+            "y": 315,
+            "width": 501,
+            "height": 42
+        },
+        {
+            "text": "继续O启动下一进程循环O停止线程",
+            "x": 65,
+            "y": 315,
+            "width": 691,
+            "height": 43
+        },
+        {
+            "text": "",
+            "x": 53,
+            "y": 1016,
+            "width": 61,
+            "height": 439
+        },
+        {
+            "text": "THENHOLDLOADFOR10",
+            "x": 185,
+            "y": 869,
+            "width": 346,
+            "height": 37
+        },
+        {
+            "text": "HREADSSCHEDULINGPARAMETERS",
+            "x": 47,
+            "y": 420,
+            "width": 491,
+            "height": 34
+        },
+        {
+            "text": "12306列车查询接口压测",
+            "x": 138,
+            "y": 100,
+            "width": 402,
+            "height": 35
+        },
+        {
+            "text": "THISGROUPWILLSTART3C",
+            "x": 147,
+            "y": 482,
+            "width": 378,
+            "height": 30
+        },
+        {
+            "text": "在取样器错误后要执行的动作",
+            "x": 34,
+            "y": 233,
+            "width": 473,
+            "height": 39
+        },
+        {
+            "text": "NEXT,ADD30",
+            "x": 309,
+            "y": 711,
+            "width": 224,
+            "height": 39
+        },
+        {
+            "text": "THREADSEVERY",
+            "x": 1032,
+            "y": 712,
+            "width": 223,
+            "height": 39
+        },
+        {
+            "text": "FIRST,WAITFORC",
+            "x": 254,
+            "y": 559,
+            "width": 252,
+            "height": 34
+        },
+        {
+            "text": "SECONDS,",
+            "x": 1826,
+            "y": 714,
+            "width": 147,
+            "height": 35
+        },
+        {
+            "text": "USINGRAMP-UP",
+            "x": 1124,
+            "y": 794,
+            "width": 275,
+            "height": 31
+        },
+        {
+            "text": "DACTIYEUSERSCOUNT",
+            "x": 151,
+            "y": 1026,
+            "width": 272,
+            "height": 22
+        },
+        {
+            "text": "SECONDS;",
+            "x": 920,
+            "y": 558,
+            "width": 155,
+            "height": 36
+        },
+        {
+            "text": "INALLY,STOP15",
+            "x": 284,
+            "y": 950,
+            "width": 254,
+            "height": 32
+        },
+        {
+            "text": "LAPSEDTIME",
+            "x": 1100,
+            "y": 1533,
+            "width": 139,
+            "height": 21
+        },
+        {
+            "text": "SECONDS.",
+            "x": 931,
+            "y": 868,
+            "width": 144,
+            "height": 39
+        },
+        {
+            "text": "THREADSEVERY",
+            "x": 1037,
+            "y": 949,
+            "width": 219,
+            "height": 31
+        },
+        {
+            "text": "THENSTARTO",
+            "x": 302,
+            "y": 637,
+            "width": 211,
+            "height": 33
+        },
+        {
+            "text": "SECONDS.",
+            "x": 1829,
+            "y": 795,
+            "width": 143,
+            "height": 30
+        },
+        {
+            "text": "00:00:10",
+            "x": 1943,
+            "y": 1496,
+            "width": 119,
+            "height": 30
+        },
+        {
+            "text": "00:00:07",
+            "x": 1321,
+            "y": 1496,
+            "width": 105,
+            "height": 29
+        },
+        {
+            "text": "00:00:03",
+            "x": 694,
+            "y": 1495,
+            "width": 115,
+            "height": 31
+        },
+        {
+            "text": "00:00:11",
+            "x": 2148,
+            "y": 1495,
+            "width": 122,
+            "height": 33
+        },
+        {
+            "text": "SECONDS.",
+            "x": 1832,
+            "y": 951,
+            "width": 137,
+            "height": 30
+        },
+        {
+            "text": "0:00:04",
+            "x": 907,
+            "y": 1496,
+            "width": 115,
+            "height": 29
+        },
+        {
+            "text": "00:00:05",
+            "x": 1108,
+            "y": 1497,
+            "width": 120,
+            "height": 29
+        },
+        {
+            "text": "00:00:00",
+            "x": 71,
+            "y": 1494,
+            "width": 114,
+            "height": 35
+        },
+        {
+            "text": "THREADS;",
+            "x": 921,
+            "y": 636,
+            "width": 145,
+            "height": 36
+        },
+        {
+            "text": "00:00:02",
+            "x": 482,
+            "y": 1496,
+            "width": 124,
+            "height": 29
+        },
+        {
+            "text": "0:00:01",
+            "x": 284,
+            "y": 1495,
+            "width": 114,
+            "height": 28
+        },
+        {
+            "text": "THREADS:",
+            "x": 923,
+            "y": 481,
+            "width": 137,
+            "height": 31
+        },
+        {
+            "text": "注释:",
+            "x": 19,
+            "y": 171,
+            "width": 110,
+            "height": 39
+        },
+        {
+            "text": "00:00:09",
+            "x": 1734,
+            "y": 1495,
+            "width": 118,
+            "height": 30
+        },
+        {
+            "text": "N-NOO---OOOCH-OOOOOOOOO-",
+            "x": 831,
+            "y": 1387,
+            "width": 248,
+            "height": 31
+        },
+        {
+            "text": "0:00:08",
+            "x": 1535,
+            "y": 1495,
+            "width": 112,
+            "height": 29
+        },
+        {
+            "text": "名称:1",
+            "x": 23,
+            "y": 97,
+            "width": 143,
+            "height": 37
+        },
+        {
+            "text": "-----O--C---.",
+            "x": 2060,
+            "y": 1095,
+            "width": 140,
+            "height": 29
+        },
+        {
+            "text": "XPECTEDAC",
+            "x": 84,
+            "y": 1025,
+            "width": 131,
+            "height": 33
+        }
+    ],
+    "showTitle": false,
+    "title": "",
+    "rotation": 0,
+    "crop": [
+        0,
+        0,
+        1,
+        1
+    ],
+    "averageHue": "#ededef",
+    "id": "u41a8f0b5",
+    "margin": {
+        "top": true,
+        "bottom": true
+    }
+}

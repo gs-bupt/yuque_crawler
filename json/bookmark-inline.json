@@ -1,0 +1,21 @@
+{
+    "mode": "title",
+    "src": "https://github.com/opengoofy/hippo4j",
+    "text": "https://github.com/opengoofy/hippo4j",
+    "detail": {
+        "icon": "https://github.githubassets.com/favicons/favicon.svg",
+        "image": "https://opengraph.githubassets.com/7d4c206180469a304378657f172f847683eaa62817c98a01810cff8676a03537/opengoofy/hippo4j",
+        "title": "GitHub - opengoofy/hippo4j: 📌 异步线程池框架，支持线程池动态变更&监控&报警，无需修改代码轻松引入。Asynchronous thread pool framework, support Thread Pool Dynamic Change & monitoring & Alarm, no need to modify the code easily introduced.",
+        "belong": "GitHub",
+        "belong_url": null,
+        "desc": "📌 异步线程池框架，支持线程池动态变更&amp;监控&amp;报警，无需修改代码轻松引入。Asynchronous thread pool framework, support Thread Pool Dynamic Change &amp; monitoring &amp; Alarm, no need to modify the code easily introduced. - Git...",
+        "url": "https://github.com/opengoofy/hippo4j",
+        "_serializer": "web.editor_link_detail"
+    },
+    "__spacing": "both",
+    "id": "cqouF",
+    "margin": {
+        "top": true,
+        "bottom": true
+    }
+}
