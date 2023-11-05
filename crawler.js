@@ -128,6 +128,8 @@ function parse_page(data) {
     });
 
     // 将解析后的html保存到pages文件夹下，如果文件存在就覆盖
+    // 对data.title进行处理，去除特殊字符，使其可以作为文件名
+    data.title = data.title.replace(/[\\/:*?"<>|]/g, '')
     fs.writeFile('./pages/' + data.title + '.html', $.html(), (err) => {
          if (err) throw err;
          console.log('The file has been saved!');
